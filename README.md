@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏡 Land Deal Finder
 
 An AI-powered full-stack web application that identifies **undervalued land properties** using machine learning and data analysis.
@@ -148,6 +148,4 @@ The system returns:
 
 ---
 
-=======
-# land-deal-finder
->>>>>>> f3d34b776287470207b1af4407e069d8dffd9d19
+
